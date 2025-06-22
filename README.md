@@ -41,6 +41,6 @@ The dashboard enables year-wise filtering and includes the following views:
 
 ## 🌐 View the Interactive Dashboard
 
-👉 [Click here to view the live Power BI Dashboard](https://app.powerbi.com/links/CnntoRCZRv?ctid=66729186-d438-410e-a5f4-3cc7c5f60a39&pbi_source=linkShare)
+👉 [Click here to view the live Power BI Dashboard](https://project.novypro.com/OP8AT3)
 
 
